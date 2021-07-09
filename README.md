@@ -15,6 +15,9 @@ Python 3: [https://www.python.org/](https://www.python.org/)
 
 ## Active search
 
+Subdirectory `active_search` contains code that implements our active search algorithm.
+Please refer to its `README.md` file for more details.
+
 ## Quantumn calculations
 
 ## Visualization
